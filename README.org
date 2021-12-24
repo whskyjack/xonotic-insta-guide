@@ -1,2 +1,77 @@
-# xonotic-insta-guide
-A beginner's guide to insta+hook ctf mode.
+* Xonotic insta guide
+
+** Settings
+*** Keyboard settings
+*** Graphics settings
+*** Sound settings
+*** HUD settings
+*** The console    
+  
+** Movement
+
+*** Basics
+**** Bunny hopping
+**** Strafing
+**** Secondary fire/laser usage
+**** Basic hook
+*** Advanced
+**** Going fast with hook
+**** Turning with hook
+**** Transitioning from below to above the map     
+**** Hook point and direction of movement
+**** Changing elevation
+**** Quick stops
+**** Snaking
+**** 180 turns around corners
+**** Using crouch + hook
+**** Hook jump shots
+
+** Strategies
+*** Listening
+*** Sightlines
+*** Cover usage    
+*** Knowing enemy FC's tendencies
+*** Rotations
+*** Unhooking
+*** Pinging
+*** Spawncamping
+*** Interception
+*** When not to shoot
+*** Flag manipulation
+**** Flag bouncing     
+**** Flag dropping/throwing
+**** Catching flags
+**** Autocap 
+    
+    
+** Roles     
+*** Defenders    
+**** Defending the base
+**** Protecting the FC
+*** flag carriers
+**** Get the flag
+**** Switching up the routes
+
+*** Escorts
+**** Protecting the FC
+**** Capping as FC falls
+      
+*** The dreaded spawncamper (boss: Le Speardriver)
+
+
+    
+** Map routes (cause there are 3 maps or so)
+*** Evil space   
+*** Lostspace
+*** Dissocia
+*** Powerstation
+*** Dusty
+*** Recratemini    
+
+** Other resources
+   - Halogene's
+   - Akd's videos
+
+** Credits     
+   
+  
